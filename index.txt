@@ -1,3 +1,4 @@
 Hello, Git! 
  
 Feature added
+This is third line
